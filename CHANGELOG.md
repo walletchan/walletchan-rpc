@@ -6,7 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) 
 
 ## [Unreleased]
 
-_Nothing yet._
+### Changed
+
+- Maintain the package in its own public repository with standalone development and release checks.
 
 ## [0.3.1] - 2026-09-03
 
